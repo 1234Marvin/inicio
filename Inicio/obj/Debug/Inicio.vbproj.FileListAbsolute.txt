@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\DELL\source\repos\Inicio\bin\Debug\Inicio.exe
+C:\Users\DELL\source\repos\Inicio\bin\Debug\Inicio.pdb
+C:\Users\DELL\source\repos\Inicio\bin\Debug\Inicio.xml
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.vbproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.vbproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.Login.resources
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.Resources.resources
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.exe
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.xml
+C:\Users\DELL\source\repos\Inicio\obj\Debug\Inicio.pdb
